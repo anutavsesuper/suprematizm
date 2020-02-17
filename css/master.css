@@ -1,0 +1,189 @@
+.body {
+  position: relative;
+  width: 1440px;
+  height: 900px;
+  background: #FFFFFF;
+}
+
+#square {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  left: 420px;
+  top: 150px;
+  background: #000000;
+  z-index: 1;
+}
+
+#squareyellow {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 270px;
+  top: 192px;
+  background: #FBC029;
+  z-index: 2;
+}
+
+#squaregreen {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 1020px;
+  top: 426px;
+  background: #2B7B09;
+  z-index: 2;
+}
+
+#circle {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  left: 870px;
+  top: 600px;
+  background: #137FCB;
+  z-index: 2;
+}
+
+#rectangleone {
+  position: absolute;
+  width: 580px;
+  height: 50px;
+  left: 860px;
+  top: 217px;
+  background: #D72016;
+  z-index: 2;
+}
+
+#rectangletwo {
+  position: absolute;
+  width: 481px;
+  height: 50px;
+  left: 0px;
+  top: 602px;
+  background: #D72016;
+  z-index: 2;
+}
+
+#rectanglethree {
+  position: absolute;
+  width: 168px;
+  height: 50px;
+  left: 1272px;
+  top: 779px;
+  background: #D72016;
+  z-index: 2;
+}
+
+/* iphone xs 8+ 9 */
+/* @media screen and (max-width: 375px) {
+  #square {
+    position: absolute;
+    width: 240px;
+    height: 239px;
+    left: 68px;
+    top: 215px;
+    background: #000000;
+    z-index: 1;
+  }
+
+  #squareyellow {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 20px;
+    top: 238px;
+    background: #FBC029;
+    z-index: 2;
+  }
+
+  #squaregreen {
+    position: absolute;
+    width: 49px;
+    height: 48px;
+    left: 308px;
+    top: 349px;
+    background: #2B7B09;
+    z-index: 2;
+  }
+
+  #circle {
+    position: absolute;
+    width: 48px;
+    height: 47px;
+    left: 260px;
+    top: 407px;
+    background: #137FCB;
+    z-index: 2;
+  }
+
+  #rectangleone {
+    position: absolute;
+    width: 159px;
+    height: 24px;
+    left: 216px;
+    top: 238px;
+    background: #D72016;
+    z-index: 2;
+  }
+
+  #rectangletwo {
+    position: absolute;
+    width: 88px;
+    height: 25px;
+    left: 0px;
+    top: 372px;
+    background: #D72016;
+    z-index: 2;
+  }
+
+  #rectanglethree {
+    position: absolute;
+    width: 80px;
+    height: 24px;
+    left: 295px;
+    top: 474px;
+    background: #D72016;
+    z-index: 2;
+  }
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* привет */
